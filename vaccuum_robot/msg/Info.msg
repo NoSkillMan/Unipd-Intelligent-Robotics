@@ -1,0 +1,3 @@
+string room_name
+uint8 room_id
+uint8 battery_level

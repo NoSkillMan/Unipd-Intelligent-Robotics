@@ -1,0 +1,5 @@
+std_msgs/Header header
+uint8 stationID
+---
+std_msgs/Header header
+vaccuum_robot/Info info
